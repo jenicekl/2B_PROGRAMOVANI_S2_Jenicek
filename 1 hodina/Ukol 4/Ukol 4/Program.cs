@@ -4,20 +4,20 @@
     {
         static void Main(string[] args)
         {
-          List<int> list = VytvorList();
+          List<int> list = VytvorList(1, 101, 20);
           Vypis(list);
-          list = pridatCislo(list);
+          list = pridatCislo(list, 1, 101);
             list = odebratsude(list);
             Vypis(list);
         }
 
-        static List<int> VytvorList()
+        static List<int> VytvorList(int min, int max, int delka)
         {
             Random rand = new Random();
             List<int> list = new List<int>();
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < delka; i++)
             {
-                list.Add(rand.Next(1, 101));
+                list.Add(rand.Next(min, max));
             }
             return list;
         }
@@ -31,7 +31,7 @@
             Console.WriteLine();
         }
 
-        static List<int> pridatCislo(List<int> list)
+        static List<int> pridatCislo(List<int> list, int min, int max)
         {
             Random rand = new Random();
             list.Add(rand.Next(1,101));
