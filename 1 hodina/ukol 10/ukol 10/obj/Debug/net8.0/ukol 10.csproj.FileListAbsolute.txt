@@ -1,0 +1,15 @@
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\bin\Debug\net8.0\ukol 10.exe
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\bin\Debug\net8.0\ukol 10.deps.json
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\bin\Debug\net8.0\ukol 10.runtimeconfig.json
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\bin\Debug\net8.0\ukol 10.dll
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\bin\Debug\net8.0\ukol 10.pdb
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\obj\Debug\net8.0\ukol 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\obj\Debug\net8.0\ukol 10.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\obj\Debug\net8.0\ukol 10.AssemblyInfo.cs
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\obj\Debug\net8.0\ukol 10.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\obj\Debug\net8.0\ukol 10.sourcelink.json
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\obj\Debug\net8.0\ukol 10.dll
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\obj\Debug\net8.0\refint\ukol 10.dll
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\obj\Debug\net8.0\ukol 10.pdb
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\obj\Debug\net8.0\ukol 10.genruntimeconfig.cache
+C:\Users\lukas\Desktop\program\22\1 hodina\ukol 10\ukol 10\obj\Debug\net8.0\ref\ukol 10.dll
