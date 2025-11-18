@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projekt_lode2v2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9d3063195f7b529bf09f15437045dd7929ca922")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4c993c1c8820b7387938529092b7829f4b604ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projekt_lode2v2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projekt_lode2v2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

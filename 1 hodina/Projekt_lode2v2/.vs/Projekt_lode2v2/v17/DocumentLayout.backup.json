@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\lukas\\Desktop\\program\\22\\1 hodina\\Projekt_lode2v2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|c:\\users\\lukas\\desktop\\program\\22\\1 hodina\\projekt_lode2v2\\projekt_lode2v2\\pole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|solutionrelative:projekt_lode2v2\\pole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|c:\\users\\lukas\\desktop\\program\\22\\1 hodina\\projekt_lode2v2\\projekt_lode2v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|solutionrelative:projekt_lode2v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|c:\\users\\lukas\\desktop\\program\\22\\1 hodina\\projekt_lode2v2\\projekt_lode2v2\\lod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|solutionrelative:projekt_lode2v2\\lod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|c:\\users\\lukas\\desktop\\program\\22\\1 hodina\\projekt_lode2v2\\projekt_lode2v2\\tym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|solutionrelative:projekt_lode2v2\\tym.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|c:\\users\\lukas\\desktop\\program\\22\\1 hodina\\projekt_lode2v2\\projekt_lode2v2\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|solutionrelative:projekt_lode2v2\\hrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|c:\\users\\lukas\\desktop\\program\\22\\1 hodina\\projekt_lode2v2\\projekt_lode2v2\\pole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|solutionrelative:projekt_lode2v2\\pole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|c:\\users\\lukas\\desktop\\program\\22\\1 hodina\\projekt_lode2v2\\projekt_lode2v2\\lod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|solutionrelative:projekt_lode2v2\\lod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|c:\\users\\lukas\\desktop\\program\\22\\1 hodina\\projekt_lode2v2\\projekt_lode2v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9CD0593-B332-47E8-87F5-75721B6EA242}|Projekt_lode2v2\\Projekt_lode2v2.csproj|solutionrelative:projekt_lode2v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,33 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Lod.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\program\\22\\1 hodina\\Projekt_lode2v2\\Projekt_lode2v2\\Lod.cs",
               "RelativeDocumentMoniker": "Projekt_lode2v2\\Lod.cs",
               "ToolTip": "C:\\Users\\lukas\\Desktop\\program\\22\\1 hodina\\Projekt_lode2v2\\Projekt_lode2v2\\Lod.cs",
               "RelativeToolTip": "Projekt_lode2v2\\Lod.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T11:28:45.878Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Pole.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\program\\22\\1 hodina\\Projekt_lode2v2\\Projekt_lode2v2\\Pole.cs",
               "RelativeDocumentMoniker": "Projekt_lode2v2\\Pole.cs",
-              "ToolTip": "C:\\Users\\lukas\\Desktop\\program\\22\\1 hodina\\Projekt_lode2v2\\Projekt_lode2v2\\Pole.cs*",
-              "RelativeToolTip": "Projekt_lode2v2\\Pole.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwDkAAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\lukas\\Desktop\\program\\22\\1 hodina\\Projekt_lode2v2\\Projekt_lode2v2\\Pole.cs",
+              "RelativeToolTip": "Projekt_lode2v2\\Pole.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T11:07:14.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Hrac.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\program\\22\\1 hodina\\Projekt_lode2v2\\Projekt_lode2v2\\Hrac.cs",
               "RelativeDocumentMoniker": "Projekt_lode2v2\\Hrac.cs",
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Tym.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\program\\22\\1 hodina\\Projekt_lode2v2\\Projekt_lode2v2\\Tym.cs",
               "RelativeDocumentMoniker": "Projekt_lode2v2\\Tym.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lukas\\Desktop\\program\\22\\1 hodina\\Projekt_lode2v2\\Projekt_lode2v2\\Program.cs",
               "RelativeDocumentMoniker": "Projekt_lode2v2\\Program.cs",
@@ -102,8 +102,7 @@
               "RelativeToolTip": "Projekt_lode2v2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T10:55:24.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-31T10:55:24.665Z"
             }
           ]
         }
